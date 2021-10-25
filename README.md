@@ -7,4 +7,4 @@
 - 🔭 I’m currently working on a robotics project
 - 🌱 I’m currently learning ReactJS
 
-[![github followers](https://img.shields.io/github/followers/RafaelR4mos?style=social)]
+![github followers](https://img.shields.io/github/followers/RafaelR4mos?style=social)
