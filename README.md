@@ -27,8 +27,8 @@
   <img align="center" src="https://img.shields.io/badge/rafael_r4mos-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>  
   </a>
  
-  <a href="www.linkedin.com/in/RafaelR4mos" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Rafael%20Ramos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>  
+  <a href="linkedin.com/in/RafaelR4mos" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/RafaelRamos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>  
   </a>
  </p>
 
