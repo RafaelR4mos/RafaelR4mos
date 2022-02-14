@@ -25,7 +25,7 @@
   </a>
  
   <a href="https://www.instagram.com/rafael_r4mos/" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/rafael_r4mos-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>  
+   <img align="center" src="https://img.shields.io/badge/rafaelr4mos-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>  
   </a>
  
   <a href="https://linkedin.com/in/rafaelr4mos" target="_blank">
