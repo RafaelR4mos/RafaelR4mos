@@ -10,6 +10,7 @@
  <li> 🤖 I'm on Bahtech #16041 robotics team </li>
  <li> 🏉 I'm participating in the FIRST Tech Challenge (FTC) as java programmer </li>
  <li> 👨‍🔬 I pretend to apply to Computer Science this year </li>
+ <li> 🚩 I live in RS/Brazil </li>
  </ul>
 
  🗺️ I've discovered the programming world through robotics competition. My first robotics competition was OBR (Olimpíada Brasileira de robótica), since then I've participed of many competitions like this. 
