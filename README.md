@@ -5,13 +5,13 @@
 ## 🌞&nbsp;Curiosities
  
 <ul>
- <li> 🙋‍♂️ I'm 18 years old </li>
+ <li> 🙋‍♂️ I'm 19 years old </li>
  <li> 🔭 I’m currently studying Analysis and Systems Development </li>
  <li> 🏉 I have participated on FIRST Tech Challenge (FTC) Brazil tournament as java programmer </li>
  <li> 🚩 I live in RS/Brazil </li>
  </ul>
 
- 🗺️ I've discovered the programming world through robotics competition. My first robotics competition was OBR (Olimpíada Brasileira de robótica), since then I've had participatedd of many competitions like this. 
+ 🗺️ I've discovered the programming world through robotics competition. My first robotics competition was OBR (Olimpíada Brasileira de robótica), since then I've had participated of many competitions like this. 
  
  📘 I've learned a lot about how to work in a team and how to figure things and search by myself, I have no doubts to say that robotics changed my life.
  
