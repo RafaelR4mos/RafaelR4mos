@@ -1,12 +1,14 @@
 
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Rafael Ramos</h1>
+<p align="left"> ⚪ Front-end Developer </p>
 
 ## 🌞&nbsp;Curiosities
  
 <ul>
  <li> 🙋‍♂️ I'm 19 years old </li>
- <li> 🔭 I’m currently studying Analysis and Systems Development </li>
+ <li> 💼 I'm a software assistant intern at DBC Company, through "Vem Ser" program.
+ <li> 🔭 I’m currently studying Analysis and Systems Development at IFSUL</li>
  <li> 🏉 I have participated on FIRST Tech Challenge (FTC) Brazil tournament as java programmer </li>
  <li> 🚩 I live in RS/Brazil </li>
  </ul>
