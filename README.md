@@ -7,7 +7,7 @@
  
 <ul>
  <li> 🙋‍♂️ I'm 20 years old </li>
- <li> 💼 I'm a software developer at DBC Company </li>
+ <li> 💼 I'm a software developer at DBC Company and front-end instructor at Vemser DBC formation program</li>
  <li> 🔭 I’m currently studying Analysis and Systems Development at IFSUL</li>
  <li> 🏉 I have participated on FIRST Tech Challenge (FTC) Brazil tournament as java programmer </li>
  <li> 🚩 I live in RS/Brazil </li>
