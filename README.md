@@ -28,10 +28,6 @@
    <img align="center" src="https://img.shields.io/badge/Rafael Ramos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>  
   </a>
  
-   <a href="https://twitter.com/RafaelR4mos" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/RafaelR4mos-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>  
-  </a>
- 
  ![github followers](https://img.shields.io/github/followers/RafaelR4mos?style=social)
  </p>
  
