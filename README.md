@@ -1,7 +1,7 @@
 
 
 <h1 align="left">Hi, I'm Rafael Ramos</h1>
-<p align="left"> ⚪ Front-end Developer </p>
+<p align="left"> ⚪ Software Developer </p>
 
 ## 🌞&nbsp;Curiosities
  
